@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676230987183",
+    "project_id": "fir-login-f5558",
+    "storage_bucket": "fir-login-f5558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676230987183:android:3a19c019dbd5c1c53a435a",
+        "android_client_info": {
+          "package_name": "com.example.hciproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676230987183-k2tig778jpfu0th0m7ejrt73ua965b9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxnAAEh4VxvpWPZ2atmPzxwB-imiZ99eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676230987183-k2tig778jpfu0th0m7ejrt73ua965b9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
